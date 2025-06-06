@@ -1,9 +1,5 @@
 # John Manard III
 
-## Game Engine Developer & Graphics Programmer
-
-Game engine developer with expertise in rendering systems, graphics programming, and build infrastructure. Focused on optimizing performance and creating scalable engineering solutions.
-
 ## Featured Projects
 
 - **[FABRIK Solver](https://github.com/johnmanardiii/FABRIKSolver)** - Forward and backward inverse kinematics solver implementation
@@ -32,5 +28,3 @@ Game engine developer with expertise in rendering systems, graphics programming,
 </p>
 
 ---
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmanardiii&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
