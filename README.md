@@ -7,16 +7,6 @@
 - **[FABRIK Solver](https://github.com/johnmanardiii/FABRIKSolver)** - Forward and backward inverse kinematics solver implementation
 - **[Spline Animation](https://github.com/johnmanardiii/SplineAnimation)** - Character animation framework built on spline interpolation
 
-## Technical Skills
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-  <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
 ## Connect
 
 <p>
